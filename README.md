@@ -59,7 +59,7 @@ python streamlit run frontend/app.py
 Runs at http://0.0.0.0:8501
 ```
 
-**📊 Model Performance**
+## 📊 Model Performance
 The XGBoost classification model achieved an overall accuracy of 99% on historical datasets. Performance was validated using precision, recall, and F1-score metrics.  
 
-Developer: Vaibhav Karbhantnal Affiliation: Department of MCA, BMS Institute of Technology & Management Academic Year: 2024-25
+**Developer: Vaibhav Karbhantnal** Affiliation: Department of MCA, BMS Institute of Technology & Management Academic Year: 2024-25
