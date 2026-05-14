@@ -1,3 +1,21 @@
+<p align="center">
+  <img width="800" alt="Main Dashboard" src="https://github.com/user-attachments/assets/b3e5c87a-7d27-4814-ae50-99f7421d8bef" />
+  <br>
+  <kbd><b>Main Dashboard Overview</b></kbd>
+</p>
+
+<p align="center">
+  <img width="800" alt="Interactive Fire Map" src="https://github.com/user-attachments/assets/ad274283-837a-406b-9c16-8e24ecc6e060" />
+  <br>
+  <kbd><b>Interactive Fire Risk Map</b></kbd>
+</p>
+
+<p align="center">
+  <img width="800" alt="System Architecture" src="https://github.com/user-attachments/assets/2a32e9ff-f916-48a8-b548-f8e501e1591b" />
+  <br>
+  <kbd><b>System Architecture</b></kbd>
+</p>
+
 # 🔥 Early Detection and Risk Mapping of Forest Fires
 
 [cite_start]A full-stack, AI-driven application designed to provide proactive forest fire management for India by integrating near real-time satellite data with machine learning[cite: 105, 136, 194].
