@@ -1,0 +1,793 @@
+2025-08-15 21:43:44,341 - __main__ - INFO - Model loaded successfully
+2025-08-15 21:55:44,916 - __main__ - INFO - Model loaded successfully
+2025-08-15 21:55:59,855 - __main__ - INFO - Fetched 0 fire data points
+2025-08-15 23:19:16,210 - __main__ - ERROR - Error fetching fire data: Cannot connect to host firms.modaps.eosdis.nasa.gov:443 ssl:default [getaddrinfo failed]
+2025-08-15 23:40:54,269 - __main__ - INFO - Model loaded successfully
+2025-08-15 23:41:08,319 - __main__ - INFO - Fetched 0 fire data points
+2025-08-15 23:41:16,551 - __main__ - INFO - Returning cached data
+2025-08-15 23:41:28,111 - __main__ - INFO - Returning cached data
+2025-08-15 23:42:36,243 - __main__ - INFO - Returning cached data
+2025-08-15 23:42:41,152 - __main__ - INFO - Returning cached data
+2025-08-15 23:45:39,968 - __main__ - INFO - Returning cached data
+2025-08-15 23:46:37,226 - __main__ - INFO - Fetched 0 fire data points
+2025-08-15 23:48:19,209 - __main__ - INFO - Model loaded successfully
+2025-08-15 23:52:25,120 - __main__ - INFO - Model loaded successfully
+2025-08-15 23:55:39,693 - __main__ - INFO - Received prediction request: date='2025-08-14' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-15 23:55:39,693 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-14
+2025-08-15 23:55:41,453 - __main__ - INFO - NASA API Response Status: 200
+2025-08-15 23:55:41,453 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-15 23:55:41,453 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-15 23:55:41,461 - __main__ - WARNING - No fire data found for date: 2025-08-14, day_range: 3
+2025-08-15 23:56:04,170 - __main__ - INFO - Received prediction request: date='2025-08-14' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-15 23:56:04,170 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-14
+2025-08-15 23:56:05,741 - __main__ - INFO - NASA API Response Status: 200
+2025-08-15 23:56:05,743 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-15 23:56:05,743 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-15 23:56:05,743 - __main__ - WARNING - No fire data found for date: 2025-08-14, day_range: 3
+2025-08-15 23:56:20,568 - __main__ - INFO - Received prediction request: date='2025-08-14' day_range=1 satellite=None daynight=None risk_level=None
+2025-08-15 23:56:20,576 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/1/2025-08-14
+2025-08-15 23:56:22,226 - __main__ - INFO - NASA API Response Status: 200
+2025-08-15 23:56:22,226 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-15 23:56:22,226 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-15 23:56:22,226 - __main__ - WARNING - No fire data found for date: 2025-08-14, day_range: 1
+2025-08-15 23:56:36,120 - __main__ - INFO - Received prediction request: date='2025-08-08' day_range=7 satellite=None daynight=None risk_level=None
+2025-08-15 23:56:36,120 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/7/2025-08-08
+2025-08-15 23:56:37,616 - __main__ - INFO - NASA API Response Status: 200
+2025-08-15 23:56:37,616 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-15 23:56:37,624 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-15 23:56:37,624 - __main__ - WARNING - No fire data found for date: 2025-08-08, day_range: 7
+2025-08-15 23:56:46,031 - __main__ - INFO - Received prediction request: date='2025-08-14' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-15 23:56:46,031 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-14
+2025-08-15 23:56:47,419 - __main__ - INFO - NASA API Response Status: 200
+2025-08-15 23:56:47,419 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-15 23:56:47,419 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-15 23:56:47,419 - __main__ - WARNING - No fire data found for date: 2025-08-14, day_range: 3
+2025-08-15 23:57:03,445 - __main__ - INFO - Received prediction request: date='2025-08-14' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-15 23:57:03,445 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-14
+2025-08-15 23:57:04,847 - __main__ - INFO - NASA API Response Status: 200
+2025-08-15 23:57:04,847 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-15 23:57:04,847 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-15 23:57:04,847 - __main__ - WARNING - No fire data found for date: 2025-08-14, day_range: 3
+2025-08-16 13:56:02,937 - __main__ - INFO - Model loaded successfully
+2025-08-16 13:56:23,400 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:56:23,400 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-15
+2025-08-16 13:56:25,055 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:56:25,055 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:56:25,063 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:56:25,065 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 13:56:50,964 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:56:50,964 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-15
+2025-08-16 13:56:52,446 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:56:52,446 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:56:52,453 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:56:52,455 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 13:57:08,531 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:57:08,531 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-15
+2025-08-16 13:57:09,960 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:57:09,960 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:57:09,960 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:57:09,960 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 13:58:48,375 - __main__ - INFO - Received prediction request: date='2025-08-01' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:58:48,375 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-01
+2025-08-16 13:58:49,769 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:58:49,769 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:58:49,769 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:58:49,769 - __main__ - WARNING - No fire data found for date: 2025-08-01, day_range: 3
+2025-08-16 13:58:57,617 - __main__ - INFO - Received prediction request: date='2025-07-18' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:58:57,617 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-07-18
+2025-08-16 13:58:59,112 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:58:59,112 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:58:59,112 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:58:59,123 - __main__ - WARNING - No fire data found for date: 2025-07-18, day_range: 3
+2025-08-16 13:59:15,566 - __main__ - INFO - Received prediction request: date='2025-07-08' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:59:15,566 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-07-08
+2025-08-16 13:59:17,118 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:59:17,118 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:59:17,118 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:59:17,118 - __main__ - WARNING - No fire data found for date: 2025-07-08, day_range: 3
+2025-08-16 13:59:30,834 - __main__ - INFO - Received prediction request: date='2025-07-08' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:59:30,834 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-07-08
+2025-08-16 13:59:32,125 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:59:32,125 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:59:32,125 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:59:32,134 - __main__ - WARNING - No fire data found for date: 2025-07-08, day_range: 3
+2025-08-16 13:59:54,993 - __main__ - INFO - Received prediction request: date='2025-07-08' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 13:59:54,993 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-07-08
+2025-08-16 13:59:56,498 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 13:59:56,498 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 13:59:56,499 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 13:59:56,499 - __main__ - WARNING - No fire data found for date: 2025-07-08, day_range: 3
+2025-08-16 14:00:54,444 - __main__ - INFO - Received prediction request: date='2025-07-08' day_range=9 satellite=None daynight=None risk_level=None
+2025-08-16 14:00:54,444 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/9/2025-07-08
+2025-08-16 14:00:55,010 - __main__ - INFO - Received prediction request: date='2025-07-08' day_range=10 satellite=None daynight=None risk_level=None
+2025-08-16 14:00:55,010 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/10/2025-07-08
+2025-08-16 14:00:55,816 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 14:00:55,816 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 14:00:55,816 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 14:00:55,816 - __main__ - WARNING - No fire data found for date: 2025-07-08, day_range: 9
+2025-08-16 14:00:56,414 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 14:00:56,414 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 14:00:56,414 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 14:00:56,424 - __main__ - WARNING - No fire data found for date: 2025-07-08, day_range: 10
+2025-08-16 14:01:15,421 - __main__ - INFO - Received prediction request: date='2024-03-15' day_range=10 satellite=None daynight=None risk_level=None
+2025-08-16 14:01:15,421 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/10/2024-03-15
+2025-08-16 14:01:16,758 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 14:01:16,758 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 14:01:16,758 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 14:01:16,758 - __main__ - WARNING - No fire data found for date: 2024-03-15, day_range: 10
+2025-08-16 14:01:21,885 - __main__ - INFO - Received prediction request: date='2024-03-15' day_range=9 satellite=None daynight=None risk_level=None
+2025-08-16 14:01:21,885 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/9/2024-03-15
+2025-08-16 14:01:22,307 - __main__ - INFO - Received prediction request: date='2024-03-15' day_range=8 satellite=None daynight=None risk_level=None
+2025-08-16 14:01:22,307 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/8/2024-03-15
+2025-08-16 14:01:23,505 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 14:01:23,505 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 14:01:23,505 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 14:01:23,505 - __main__ - WARNING - No fire data found for date: 2024-03-15, day_range: 9
+2025-08-16 14:01:23,909 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 14:01:23,909 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 14:01:23,913 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 14:01:23,913 - __main__ - WARNING - No fire data found for date: 2024-03-15, day_range: 8
+2025-08-16 14:01:26,444 - __main__ - INFO - Received prediction request: date='2024-03-15' day_range=7 satellite=None daynight=None risk_level=None
+2025-08-16 14:01:26,444 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/7/2024-03-15
+2025-08-16 14:01:28,063 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 14:01:28,063 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 14:01:28,064 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 14:01:28,064 - __main__ - WARNING - No fire data found for date: 2024-03-15, day_range: 7
+2025-08-16 14:49:35,415 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 14:49:35,415 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-15
+2025-08-16 14:49:36,973 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 14:49:36,973 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 14:49:36,973 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 14:49:36,981 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 15:47:50,753 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 15:47:50,753 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/5f051a6f9a3160a9a6f039ba2d75966b/VIIRS_SNPP_NRT/IND/3/2025-08-15
+2025-08-16 15:47:50,753 - __main__ - ERROR - Error fetching fire data from NASA: Cannot connect to host firms.modaps.eosdis.nasa.gov:443 ssl:default [getaddrinfo failed]
+2025-08-16 15:47:50,753 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 16:06:18,647 - __main__ - INFO - Model loaded successfully
+2025-08-16 16:06:28,514 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 16:06:28,514 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 16:06:42,888 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 16:06:42,892 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 16:06:42,892 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 16:06:42,892 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 16:07:13,173 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 16:07:13,175 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 16:07:15,861 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 16:07:15,861 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 16:07:15,861 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 16:07:15,861 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 16:10:05,035 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None
+2025-08-16 16:10:05,035 - __main__ - INFO - Fetching fire data from NASA FIRMS: https://firms.modaps.eosdis.nasa.gov/api/country/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 16:10:07,275 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 16:10:07,275 - __main__ - INFO - Received 17 characters from NASA API
+2025-08-16 16:10:07,283 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 16:10:07,283 - __main__ - WARNING - No fire data found for date: 2025-08-15, day_range: 3
+2025-08-16 16:17:43,684 - __main__ - INFO - Model loaded successfully
+2025-08-16 16:20:12,430 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 16:20:12,430 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 16:20:13,935 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 16:20:13,935 - __main__ - INFO - Received 11251 characters from NASA API
+2025-08-16 16:20:13,959 - __main__ - INFO - Successfully parsed 138 fire data points
+2025-08-16 16:20:13,959 - __main__ - INFO - Processing 138 fire data points
+2025-08-16 16:20:14,038 - __main__ - INFO - Risk level distribution: {0: 112, 1: 24, 2: 2}
+2025-08-16 22:38:35,895 - __main__ - INFO - Model loaded successfully
+2025-08-16 22:38:36,260 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:38:36,260 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 22:38:39,422 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:38:39,422 - __main__ - INFO - Received 13092 characters from NASA API
+2025-08-16 22:38:39,441 - __main__ - INFO - Successfully parsed 161 fire data points
+2025-08-16 22:38:39,447 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:38:39,488 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:40:23,781 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=0 region='complete'
+2025-08-16 22:40:23,781 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:40:23,781 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:40:23,807 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:40:23,815 - __main__ - INFO - After risk level filter (0): 117 records
+2025-08-16 22:40:38,555 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:40:38,555 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:40:38,555 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:40:38,578 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:40:44,930 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=1 region='complete'
+2025-08-16 22:40:44,930 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:40:44,930 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:40:44,957 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:40:44,966 - __main__ - INFO - After risk level filter (1): 42 records
+2025-08-16 22:41:26,566 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight='D' risk_level=1 region='complete'
+2025-08-16 22:41:26,566 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:41:26,566 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:41:26,597 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:41:26,610 - __main__ - INFO - After day/night filter (D): 82 records
+2025-08-16 22:41:26,610 - __main__ - INFO - After risk level filter (1): 41 records
+2025-08-16 22:41:42,265 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight='D' risk_level=1 region='complete'
+2025-08-16 22:41:42,265 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:41:42,265 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:41:42,288 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:41:42,301 - __main__ - INFO - After day/night filter (D): 82 records
+2025-08-16 22:41:42,301 - __main__ - INFO - After risk level filter (1): 41 records
+2025-08-16 22:41:43,867 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight='D' risk_level=1 region='complete'
+2025-08-16 22:41:43,867 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:41:43,867 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:41:43,906 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:41:43,906 - __main__ - INFO - After day/night filter (D): 82 records
+2025-08-16 22:41:43,911 - __main__ - INFO - After risk level filter (1): 41 records
+2025-08-16 22:41:49,585 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight='D' risk_level=None region='complete'
+2025-08-16 22:41:49,585 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:41:49,585 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:41:49,601 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:41:49,607 - __main__ - INFO - After day/night filter (D): 82 records
+2025-08-16 22:41:56,873 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight='D' risk_level=None region='complete'
+2025-08-16 22:41:56,875 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:41:56,875 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:41:56,903 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:41:56,903 - __main__ - INFO - After day/night filter (D): 82 records
+2025-08-16 22:44:39,502 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:44:39,502 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 22:44:41,716 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:44:41,716 - __main__ - INFO - Received 13092 characters from NASA API
+2025-08-16 22:44:41,724 - __main__ - INFO - Successfully parsed 161 fire data points
+2025-08-16 22:44:41,724 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:44:41,764 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:45:19,908 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:45:19,908 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:45:19,908 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:45:19,953 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:45:39,532 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:45:39,532 - __main__ - INFO - Returning cached data for complete/3/2025-08-15
+2025-08-16 22:45:39,532 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:45:39,555 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:45:55,373 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='north'
+2025-08-16 22:45:55,373 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,24.0,88.2,37.0/3/2025-08-15
+2025-08-16 22:45:57,496 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:45:57,497 - __main__ - INFO - Received 4223 characters from NASA API
+2025-08-16 22:45:57,502 - __main__ - INFO - Successfully parsed 51 fire data points
+2025-08-16 22:45:57,502 - __main__ - INFO - Processing 51 fire data points
+2025-08-16 22:45:57,566 - __main__ - INFO - Risk level distribution: {1: 28, 0: 16, 2: 7}
+2025-08-16 22:53:18,939 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:53:18,939 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 22:53:20,985 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:53:20,985 - __main__ - INFO - Received 13092 characters from NASA API
+2025-08-16 22:53:20,993 - __main__ - INFO - Successfully parsed 161 fire data points
+2025-08-16 22:53:20,996 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 22:53:21,029 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-16 22:57:32,443 - __main__ - INFO - Received prediction request: date='2024-04-23' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:57:32,443 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2024-04-23
+2025-08-16 22:57:34,116 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:57:34,116 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:57:34,116 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:57:34,116 - __main__ - WARNING - No fire data found for date: 2024-04-23, day_range: 3, region: complete
+2025-08-16 22:57:44,645 - __main__ - INFO - Received prediction request: date='2024-04-23' day_range=1 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:57:44,645 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/1/2024-04-23
+2025-08-16 22:57:46,096 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:57:46,096 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:57:46,096 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:57:46,096 - __main__ - WARNING - No fire data found for date: 2024-04-23, day_range: 1, region: complete
+2025-08-16 22:57:51,350 - __main__ - INFO - Received prediction request: date='2024-04-23' day_range=8 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:57:51,350 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/8/2024-04-23
+2025-08-16 22:57:53,072 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:57:53,072 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:57:53,072 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:57:53,080 - __main__ - WARNING - No fire data found for date: 2024-04-23, day_range: 8, region: complete
+2025-08-16 22:57:57,966 - __main__ - INFO - Received prediction request: date='2024-04-22' day_range=8 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:57:57,966 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/8/2024-04-22
+2025-08-16 22:57:59,521 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:57:59,522 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:57:59,522 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:57:59,522 - __main__ - WARNING - No fire data found for date: 2024-04-22, day_range: 8, region: complete
+2025-08-16 22:58:00,416 - __main__ - INFO - Received prediction request: date='2024-04-22' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:58:00,416 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2024-04-22
+2025-08-16 22:58:01,966 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:58:01,966 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:58:01,966 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:58:01,966 - __main__ - WARNING - No fire data found for date: 2024-04-22, day_range: 3, region: complete
+2025-08-16 22:58:05,979 - __main__ - INFO - Received prediction request: date='2024-04-21' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:58:05,979 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2024-04-21
+2025-08-16 22:58:07,492 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:58:07,500 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:58:07,500 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:58:07,504 - __main__ - WARNING - No fire data found for date: 2024-04-21, day_range: 3, region: complete
+2025-08-16 22:58:12,035 - __main__ - INFO - Received prediction request: date='2024-04-25' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:58:12,035 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2024-04-25
+2025-08-16 22:58:13,755 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:58:13,755 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:58:13,755 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:58:13,763 - __main__ - WARNING - No fire data found for date: 2024-04-25, day_range: 3, region: complete
+2025-08-16 22:58:18,106 - __main__ - INFO - Received prediction request: date='2024-04-26' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:58:18,106 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2024-04-26
+2025-08-16 22:58:19,685 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:58:19,685 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:58:19,685 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:58:19,685 - __main__ - WARNING - No fire data found for date: 2024-04-26, day_range: 3, region: complete
+2025-08-16 22:58:25,434 - __main__ - INFO - Received prediction request: date='2024-04-27' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:58:25,435 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2024-04-27
+2025-08-16 22:58:26,949 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:58:26,949 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:58:26,949 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:58:26,958 - __main__ - WARNING - No fire data found for date: 2024-04-27, day_range: 3, region: complete
+2025-08-16 22:58:32,163 - __main__ - INFO - Received prediction request: date='2024-04-29' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:58:32,163 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2024-04-29
+2025-08-16 22:58:33,819 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:58:33,819 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-16 22:58:33,819 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-16 22:58:33,819 - __main__ - WARNING - No fire data found for date: 2024-04-29, day_range: 3, region: complete
+2025-08-16 22:58:41,509 - __main__ - INFO - Received prediction request: date='2025-04-03' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 22:58:41,509 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-04-03
+2025-08-16 22:58:44,272 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 22:58:47,333 - __main__ - INFO - Received 2410553 characters from NASA API
+2025-08-16 22:58:47,449 - __main__ - INFO - Successfully parsed 29902 fire data points
+2025-08-16 22:58:47,454 - __main__ - INFO - Processing 29902 fire data points
+2025-08-16 22:58:47,664 - __main__ - INFO - Risk level distribution: {2: 18741, 1: 11147, 0: 14}
+2025-08-16 23:49:51,611 - __main__ - INFO - Model loaded successfully
+2025-08-16 23:49:52,004 - __main__ - INFO - Received prediction request: date='2025-08-15' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-16 23:49:52,004 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-15
+2025-08-16 23:49:55,380 - __main__ - INFO - NASA API Response Status: 200
+2025-08-16 23:49:55,380 - __main__ - INFO - Received 13092 characters from NASA API
+2025-08-16 23:49:55,396 - __main__ - INFO - Successfully parsed 161 fire data points
+2025-08-16 23:49:55,404 - __main__ - INFO - Processing 161 fire data points
+2025-08-16 23:49:55,462 - __main__ - INFO - Risk level distribution: {0: 117, 1: 42, 2: 2}
+2025-08-17 15:36:58,653 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 15:36:58,661 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-16
+2025-08-17 15:37:33,468 - __main__ - INFO - NASA API Response Status: 200
+2025-08-17 15:37:33,468 - __main__ - INFO - Received 14038 characters from NASA API
+2025-08-17 15:37:33,542 - __main__ - INFO - Successfully parsed 173 fire data points
+2025-08-17 15:37:33,551 - __main__ - INFO - Processing 173 fire data points
+2025-08-17 15:37:33,626 - __main__ - INFO - Risk level distribution: {0: 104, 1: 67, 2: 2}
+2025-08-17 15:38:08,488 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='north'
+2025-08-17 15:38:08,488 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,24.0,88.2,37.0/3/2025-08-16
+2025-08-17 15:38:10,355 - __main__ - INFO - NASA API Response Status: 200
+2025-08-17 15:38:10,355 - __main__ - INFO - Received 2845 characters from NASA API
+2025-08-17 15:38:10,364 - __main__ - INFO - Successfully parsed 34 fire data points
+2025-08-17 15:38:10,367 - __main__ - INFO - Processing 34 fire data points
+2025-08-17 15:38:10,398 - __main__ - INFO - Risk level distribution: {1: 17, 0: 13, 2: 4}
+2025-08-17 15:38:29,660 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 15:38:29,663 - __main__ - INFO - Returning cached data for complete/3/2025-08-16
+2025-08-17 15:38:29,663 - __main__ - INFO - Processing 173 fire data points
+2025-08-17 15:38:29,682 - __main__ - INFO - Risk level distribution: {0: 104, 1: 67, 2: 2}
+2025-08-17 15:39:36,861 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 15:39:36,861 - __main__ - INFO - Returning cached data for complete/3/2025-08-16
+2025-08-17 15:39:36,861 - __main__ - INFO - Processing 173 fire data points
+2025-08-17 15:39:36,886 - __main__ - INFO - Risk level distribution: {0: 104, 1: 67, 2: 2}
+2025-08-17 15:40:07,869 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 15:40:07,869 - __main__ - INFO - Returning cached data for complete/3/2025-08-16
+2025-08-17 15:40:07,869 - __main__ - INFO - Processing 173 fire data points
+2025-08-17 15:40:07,899 - __main__ - INFO - Risk level distribution: {0: 104, 1: 67, 2: 2}
+2025-08-17 15:41:46,601 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 15:41:46,601 - __main__ - INFO - Returning cached data for complete/3/2025-08-16
+2025-08-17 15:41:46,601 - __main__ - INFO - Processing 173 fire data points
+2025-08-17 15:41:46,632 - __main__ - INFO - Risk level distribution: {0: 104, 1: 67, 2: 2}
+2025-08-17 15:57:31,415 - __main__ - INFO - Model loaded successfully
+2025-08-17 15:57:31,814 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 15:57:31,814 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-16
+2025-08-17 15:57:34,642 - __main__ - INFO - NASA API Response Status: 200
+2025-08-17 15:57:34,642 - __main__ - INFO - Received 14038 characters from NASA API
+2025-08-17 15:57:34,676 - __main__ - INFO - Successfully parsed 173 fire data points
+2025-08-17 15:57:34,688 - __main__ - INFO - Processing 173 fire data points
+2025-08-17 15:57:34,817 - __main__ - INFO - Risk level distribution: {0: 104, 1: 67, 2: 2}
+2025-08-17 17:13:10,736 - __main__ - INFO - Model loaded successfully
+2025-08-17 17:13:43,195 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 17:13:43,195 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-16
+2025-08-17 17:13:55,317 - __main__ - ERROR - Error fetching fire data from NASA: Cannot connect to host firms.modaps.eosdis.nasa.gov:443 ssl:default [getaddrinfo failed]
+2025-08-17 17:13:55,317 - __main__ - WARNING - No fire data found for date: 2025-08-16, day_range: 3, region: complete
+2025-08-17 17:14:09,548 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 17:14:09,548 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-16
+2025-08-17 17:14:11,667 - __main__ - INFO - NASA API Response Status: 200
+2025-08-17 17:14:11,667 - __main__ - INFO - Received 14597 characters from NASA API
+2025-08-17 17:14:11,689 - __main__ - INFO - Successfully parsed 180 fire data points
+2025-08-17 17:14:11,690 - __main__ - INFO - Processing 180 fire data points
+2025-08-17 17:14:11,748 - __main__ - INFO - Risk level distribution: {0: 107, 1: 71, 2: 2}
+2025-08-17 17:28:00,953 - __main__ - INFO - Model loaded successfully
+2025-08-17 17:28:10,074 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 17:28:10,074 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-16
+2025-08-17 17:28:12,478 - __main__ - INFO - NASA API Response Status: 200
+2025-08-17 17:28:12,478 - __main__ - INFO - Received 14597 characters from NASA API
+2025-08-17 17:28:12,502 - __main__ - INFO - Successfully parsed 180 fire data points
+2025-08-17 17:28:12,507 - __main__ - INFO - Processing 180 fire data points
+2025-08-17 17:28:12,585 - __main__ - INFO - Risk level distribution: {0: 107, 1: 71, 2: 2}
+2025-08-17 18:09:57,858 - __main__ - INFO - Received prediction request: date='2025-08-16' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-17 18:09:57,858 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-16
+2025-08-17 18:10:00,077 - __main__ - INFO - NASA API Response Status: 200
+2025-08-17 18:10:00,077 - __main__ - INFO - Received 14597 characters from NASA API
+2025-08-17 18:10:00,077 - __main__ - INFO - Successfully parsed 180 fire data points
+2025-08-17 18:10:00,077 - __main__ - INFO - Processing 180 fire data points
+2025-08-17 18:10:00,113 - __main__ - INFO - Risk level distribution: {0: 107, 1: 71, 2: 2}
+2025-08-19 14:37:59,089 - __main__ - INFO - Model loaded successfully
+2025-08-19 14:37:59,446 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 14:37:59,446 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 14:38:01,859 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 14:38:01,859 - __main__ - INFO - Received 17650 characters from NASA API
+2025-08-19 14:38:01,883 - __main__ - INFO - Successfully parsed 218 fire data points
+2025-08-19 14:38:01,891 - __main__ - INFO - Processing 218 fire data points
+2025-08-19 14:38:01,958 - __main__ - INFO - Risk level distribution: {0: 147, 1: 71}
+2025-08-19 14:40:35,499 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 14:40:35,499 - __main__ - INFO - Returning cached data for complete/3/2025-08-18
+2025-08-19 14:40:35,499 - __main__ - INFO - Processing 218 fire data points
+2025-08-19 14:40:35,523 - __main__ - INFO - Risk level distribution: {0: 147, 1: 71}
+2025-08-19 14:51:07,772 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 14:51:07,772 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 14:51:11,818 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 14:51:11,818 - __main__ - INFO - Received 17650 characters from NASA API
+2025-08-19 14:51:11,824 - __main__ - INFO - Successfully parsed 218 fire data points
+2025-08-19 14:51:11,824 - __main__ - INFO - Processing 218 fire data points
+2025-08-19 14:51:11,863 - __main__ - INFO - Risk level distribution: {0: 147, 1: 71}
+2025-08-19 15:45:04,289 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 15:45:04,289 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 15:45:11,826 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 15:45:11,826 - __main__ - INFO - Received 17650 characters from NASA API
+2025-08-19 15:45:11,826 - __main__ - INFO - Successfully parsed 218 fire data points
+2025-08-19 15:45:11,826 - __main__ - INFO - Processing 218 fire data points
+2025-08-19 15:45:11,849 - __main__ - INFO - Risk level distribution: {0: 147, 1: 71}
+2025-08-19 16:08:10,085 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 16:08:10,085 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 16:08:12,188 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 16:08:12,188 - __main__ - INFO - Received 26780 characters from NASA API
+2025-08-19 16:08:12,203 - __main__ - INFO - Successfully parsed 333 fire data points
+2025-08-19 16:08:12,203 - __main__ - INFO - Processing 333 fire data points
+2025-08-19 16:08:12,250 - __main__ - INFO - Risk level distribution: {0: 251, 1: 75, 2: 7}
+2025-08-19 16:08:27,714 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 16:08:27,714 - __main__ - INFO - Returning cached data for complete/3/2025-08-18
+2025-08-19 16:08:27,714 - __main__ - INFO - Processing 333 fire data points
+2025-08-19 16:08:27,743 - __main__ - INFO - Risk level distribution: {0: 251, 1: 75, 2: 7}
+2025-08-19 16:37:34,409 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 16:37:34,409 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 16:37:36,519 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 16:37:36,519 - __main__ - INFO - Received 27183 characters from NASA API
+2025-08-19 16:37:36,535 - __main__ - INFO - Successfully parsed 338 fire data points
+2025-08-19 16:37:36,535 - __main__ - INFO - Processing 338 fire data points
+2025-08-19 16:37:36,587 - __main__ - INFO - Risk level distribution: {0: 251, 1: 80, 2: 7}
+2025-08-19 17:44:51,675 - __main__ - INFO - Model loaded successfully
+2025-08-19 17:45:33,019 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 17:45:33,020 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 17:45:33,045 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 17:45:33,045 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 17:45:33,279 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 17:45:33,279 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 17:45:34,830 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 17:45:34,831 - __main__ - INFO - Received 27343 characters from NASA API
+2025-08-19 17:45:34,839 - __main__ - INFO - Successfully parsed 340 fire data points
+2025-08-19 17:45:34,842 - __main__ - INFO - Processing 340 fire data points
+2025-08-19 17:45:34,867 - __main__ - INFO - Risk level distribution: {0: 253, 1: 80, 2: 7}
+2025-08-19 17:45:34,901 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 17:45:34,902 - __main__ - INFO - Received 27343 characters from NASA API
+2025-08-19 17:45:34,904 - __main__ - INFO - Successfully parsed 340 fire data points
+2025-08-19 17:45:34,904 - __main__ - INFO - Processing 340 fire data points
+2025-08-19 17:45:34,915 - __main__ - INFO - Risk level distribution: {0: 253, 1: 80, 2: 7}
+2025-08-19 17:45:37,624 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 17:45:37,625 - __main__ - INFO - Received 27343 characters from NASA API
+2025-08-19 17:45:37,628 - __main__ - INFO - Successfully parsed 340 fire data points
+2025-08-19 17:45:37,628 - __main__ - INFO - Processing 340 fire data points
+2025-08-19 17:45:37,640 - __main__ - INFO - Risk level distribution: {0: 253, 1: 80, 2: 7}
+2025-08-19 17:47:20,858 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 17:47:20,859 - __main__ - INFO - Returning cached data for complete/3/2025-08-18
+2025-08-19 17:47:20,859 - __main__ - INFO - Processing 340 fire data points
+2025-08-19 17:47:20,869 - __main__ - INFO - Risk level distribution: {0: 253, 1: 80, 2: 7}
+2025-08-19 17:47:29,816 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 17:47:29,817 - __main__ - INFO - Returning cached data for complete/3/2025-08-18
+2025-08-19 17:47:29,818 - __main__ - INFO - Processing 340 fire data points
+2025-08-19 17:47:29,823 - __main__ - INFO - Risk level distribution: {0: 253, 1: 80, 2: 7}
+2025-08-19 17:48:19,578 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 17:48:19,578 - __main__ - INFO - Returning cached data for complete/3/2025-08-18
+2025-08-19 17:48:19,579 - __main__ - INFO - Processing 340 fire data points
+2025-08-19 17:48:19,596 - __main__ - INFO - Risk level distribution: {0: 253, 1: 80, 2: 7}
+2025-08-19 17:48:22,090 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 17:48:22,091 - __main__ - INFO - Returning cached data for complete/3/2025-08-18
+2025-08-19 17:48:22,091 - __main__ - INFO - Processing 340 fire data points
+2025-08-19 17:48:22,106 - __main__ - INFO - Risk level distribution: {0: 253, 1: 80, 2: 7}
+2025-08-19 18:13:41,089 - __main__ - INFO - Model loaded successfully
+2025-08-19 18:13:41,668 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:13:41,668 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 18:13:47,071 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 18:13:47,071 - __main__ - INFO - Received 27419 characters from NASA API
+2025-08-19 18:13:47,097 - __main__ - INFO - Successfully parsed 341 fire data points
+2025-08-19 18:13:47,103 - __main__ - INFO - Processing 341 fire data points
+2025-08-19 18:13:47,162 - __main__ - INFO - Risk level distribution: {0: 254, 1: 80, 2: 7}
+2025-08-19 18:20:40,667 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:20:40,667 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 18:20:43,809 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 18:20:43,809 - __main__ - INFO - Received 27419 characters from NASA API
+2025-08-19 18:20:43,826 - __main__ - INFO - Successfully parsed 341 fire data points
+2025-08-19 18:20:43,826 - __main__ - INFO - Processing 341 fire data points
+2025-08-19 18:20:43,868 - __main__ - INFO - Risk level distribution: {0: 254, 1: 80, 2: 7}
+2025-08-19 18:21:09,306 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:21:09,306 - __main__ - INFO - Returning cached data for complete/3/2025-08-18
+2025-08-19 18:21:09,306 - __main__ - INFO - Processing 341 fire data points
+2025-08-19 18:21:09,336 - __main__ - INFO - Risk level distribution: {0: 254, 1: 80, 2: 7}
+2025-08-19 18:21:55,189 - __main__ - INFO - Received prediction request: date='2025-08-05' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:21:55,189 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-05
+2025-08-19 18:21:59,188 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 18:21:59,188 - __main__ - INFO - Received 32096 characters from NASA API
+2025-08-19 18:21:59,188 - __main__ - INFO - Successfully parsed 398 fire data points
+2025-08-19 18:21:59,188 - __main__ - INFO - Processing 398 fire data points
+2025-08-19 18:21:59,230 - __main__ - INFO - Risk level distribution: {0: 279, 1: 117, 2: 2}
+2025-08-19 18:22:12,526 - __main__ - INFO - Received prediction request: date='2025-08-17' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:22:12,526 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-17
+2025-08-19 18:22:15,261 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 18:22:15,261 - __main__ - INFO - Received 34828 characters from NASA API
+2025-08-19 18:22:15,269 - __main__ - INFO - Successfully parsed 433 fire data points
+2025-08-19 18:22:15,269 - __main__ - INFO - Processing 433 fire data points
+2025-08-19 18:22:15,311 - __main__ - INFO - Risk level distribution: {0: 329, 1: 97, 2: 7}
+2025-08-19 18:24:45,989 - __main__ - INFO - Received prediction request: date='2025-08-17' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:24:45,989 - __main__ - INFO - Returning cached data for complete/3/2025-08-17
+2025-08-19 18:24:45,989 - __main__ - INFO - Processing 433 fire data points
+2025-08-19 18:24:46,024 - __main__ - INFO - Risk level distribution: {0: 329, 1: 97, 2: 7}
+2025-08-19 18:25:10,354 - __main__ - INFO - Received prediction request: date='2025-08-17' day_range=3 satellite=None daynight=None risk_level=2 region='complete'
+2025-08-19 18:25:10,354 - __main__ - INFO - Returning cached data for complete/3/2025-08-17
+2025-08-19 18:25:10,354 - __main__ - INFO - Processing 433 fire data points
+2025-08-19 18:25:10,387 - __main__ - INFO - Risk level distribution: {0: 329, 1: 97, 2: 7}
+2025-08-19 18:25:10,387 - __main__ - INFO - After risk level filter (2): 7 records
+2025-08-19 18:25:39,962 - __main__ - INFO - Received prediction request: date='2025-08-17' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:25:39,962 - __main__ - INFO - Returning cached data for complete/3/2025-08-17
+2025-08-19 18:25:39,962 - __main__ - INFO - Processing 433 fire data points
+2025-08-19 18:25:39,999 - __main__ - INFO - Risk level distribution: {0: 329, 1: 97, 2: 7}
+2025-08-19 18:26:17,029 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:26:17,029 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 18:26:17,220 - __main__ - INFO - Received prediction request: date='2025-08-18' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-19 18:26:17,220 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-18
+2025-08-19 18:26:20,099 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 18:26:20,099 - __main__ - INFO - Received 27419 characters from NASA API
+2025-08-19 18:26:20,099 - __main__ - INFO - Successfully parsed 341 fire data points
+2025-08-19 18:26:20,099 - __main__ - INFO - Processing 341 fire data points
+2025-08-19 18:26:20,151 - __main__ - INFO - Risk level distribution: {0: 254, 1: 80, 2: 7}
+2025-08-19 18:26:21,363 - __main__ - INFO - NASA API Response Status: 200
+2025-08-19 18:26:21,379 - __main__ - INFO - Received 27419 characters from NASA API
+2025-08-19 18:26:21,379 - __main__ - INFO - Successfully parsed 341 fire data points
+2025-08-19 18:26:21,379 - __main__ - INFO - Processing 341 fire data points
+2025-08-19 18:26:21,408 - __main__ - INFO - Risk level distribution: {0: 254, 1: 80, 2: 7}
+2025-08-19 23:53:06,793 - __main__ - ERROR - Ensure 'xgboost_fire_risk_model2.joblib' is in the same directory as main.py.
+2025-08-19 23:59:28,149 - __main__ - INFO - Model loaded successfully
+2025-08-20 00:01:12,653 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 00:01:12,653 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 00:01:15,466 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 00:01:15,466 - __main__ - INFO - Received 9891 characters from NASA API
+2025-08-20 00:01:15,481 - __main__ - INFO - Successfully parsed 123 fire data points
+2025-08-20 00:01:15,498 - __main__ - INFO - Processing 123 fire data points
+2025-08-20 00:01:15,564 - __main__ - INFO - Risk level distribution: {0: 115, 2: 7, 1: 1}
+2025-08-20 00:02:53,208 - __main__ - ERROR - Ensure 'xgboost_fire_risk_model2.joblib' is in the same directory as main.py.
+2025-08-20 00:03:57,017 - __main__ - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:03:57,017 - __main__ - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:03:57,017 - __main__ - ERROR - CRITICAL ERROR: Model file not found: 'xgboost_fire_risk_model2.joblib'
+2025-08-20 00:03:57,017 - __main__ - ERROR - Ensure 'xgboost_fire_risk_model2.joblib' is in the same directory as main.py.
+2025-08-20 00:05:44,018 - __main__ - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:05:44,026 - __main__ - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:05:44,026 - __main__ - ERROR - CRITICAL ERROR: Model file not found: 'xgboost_fire_risk_model2.joblib'
+2025-08-20 00:05:44,026 - __main__ - ERROR - Ensure 'xgboost_fire_risk_model2.joblib' is in the same directory as main.py.
+2025-08-20 00:07:09,626 - __main__ - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:07:09,626 - __main__ - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:07:09,632 - __main__ - ERROR - Error loading model: No module named 'xgboost'
+2025-08-20 00:08:27,712 - __main__ - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:08:27,712 - __main__ - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:08:30,680 - __main__ - INFO - Successfully loaded pre-trained model: 'xgboost_fire_risk_model2.joblib'
+2025-08-20 00:08:57,258 - __main__ - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:08:57,258 - __main__ - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:08:59,308 - __main__ - INFO - Successfully loaded pre-trained model: 'xgboost_fire_risk_model2.joblib'
+2025-08-20 00:10:02,355 - __main__ - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:10:02,355 - __main__ - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:10:04,279 - __main__ - INFO - Successfully loaded pre-trained model: 'xgboost_fire_risk_model2.joblib'
+2025-08-20 00:10:04,416 - __main__ - INFO - Starting Uvicorn server...
+2025-08-20 00:10:09,419 - __mp_main__ - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:10:09,419 - __mp_main__ - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:10:09,879 - __mp_main__ - INFO - Successfully loaded pre-trained model: 'xgboost_fire_risk_model2.joblib'
+2025-08-20 00:10:10,075 - maincar - INFO - NASA FIRMS API Key loaded successfully.
+2025-08-20 00:10:10,075 - maincar - INFO - API Configuration: {'host': '0.0.0.0', 'port': 8000}
+2025-08-20 00:10:10,136 - maincar - INFO - Successfully loaded pre-trained model: 'xgboost_fire_risk_model2.joblib'
+2025-08-20 00:10:27,301 - maincar - INFO - Received prediction request: {'date': '2025-08-19', 'day_range': 3, 'satellite': None, 'daynight': None, 'risk_level': None, 'region': 'complete'}
+2025-08-20 00:10:27,301 - maincar - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 00:10:27,625 - maincar - INFO - Received prediction request: {'date': '2025-08-19', 'day_range': 3, 'satellite': None, 'daynight': None, 'risk_level': None, 'region': 'complete'}
+2025-08-20 00:10:27,625 - maincar - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 00:10:29,243 - maincar - INFO - NASA API Response Status: 200
+2025-08-20 00:10:29,251 - maincar - INFO - Successfully parsed 123 fire data points
+2025-08-20 00:10:29,895 - maincar - INFO - NASA API Response Status: 200
+2025-08-20 00:10:29,895 - maincar - INFO - Successfully parsed 123 fire data points
+2025-08-20 00:11:13,285 - maincar - INFO - Received prediction request: {'date': '2025-08-04', 'day_range': 3, 'satellite': None, 'daynight': None, 'risk_level': None, 'region': 'complete'}
+2025-08-20 00:11:13,285 - maincar - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-04
+2025-08-20 00:11:16,285 - maincar - INFO - NASA API Response Status: 200
+2025-08-20 00:11:16,294 - maincar - INFO - Successfully parsed 421 fire data points
+2025-08-20 00:11:34,784 - maincar - INFO - Received prediction request: {'date': '2025-07-11', 'day_range': 3, 'satellite': None, 'daynight': None, 'risk_level': None, 'region': 'complete'}
+2025-08-20 00:11:34,784 - maincar - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-07-11
+2025-08-20 00:11:38,094 - maincar - INFO - NASA API Response Status: 200
+2025-08-20 00:11:38,404 - maincar - INFO - Successfully parsed 499 fire data points
+2025-08-20 00:12:50,721 - __main__ - INFO - Model loaded successfully
+2025-08-20 00:12:53,848 - __main__ - INFO - Received prediction request: date='2025-07-03' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 00:12:53,848 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-07-03
+2025-08-20 00:12:57,757 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 00:12:58,169 - __main__ - INFO - Received 62313 characters from NASA API
+2025-08-20 00:12:58,183 - __main__ - INFO - Successfully parsed 777 fire data points
+2025-08-20 00:12:58,183 - __main__ - INFO - Processing 777 fire data points
+2025-08-20 00:12:58,249 - __main__ - INFO - Risk level distribution: {0: 417, 1: 357, 2: 3}
+2025-08-20 00:13:14,506 - __main__ - INFO - Received prediction request: date='2025-07-11' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 00:13:14,506 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-07-11
+2025-08-20 00:13:16,496 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 00:13:17,002 - __main__ - INFO - Received 40216 characters from NASA API
+2025-08-20 00:13:17,019 - __main__ - INFO - Successfully parsed 499 fire data points
+2025-08-20 00:13:17,028 - __main__ - INFO - Processing 499 fire data points
+2025-08-20 00:13:17,058 - __main__ - INFO - Risk level distribution: {0: 358, 1: 137, 2: 4}
+2025-08-20 07:26:20,346 - __main__ - INFO - Model loaded successfully
+2025-08-20 07:26:29,773 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:26:29,773 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 07:26:30,381 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:26:30,381 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 07:26:33,034 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:26:33,034 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 07:26:33,034 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 07:26:33,049 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 07:26:33,103 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 07:26:33,166 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:26:33,168 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 07:26:33,168 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 07:26:33,168 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 07:26:33,203 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 07:26:40,304 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=2 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:26:40,304 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/2/2025-08-19
+2025-08-20 07:26:43,170 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:26:43,172 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 07:26:43,172 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 07:26:43,172 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 07:26:43,214 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 07:26:47,422 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=4 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:26:47,422 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/4/2025-08-19
+2025-08-20 07:26:52,189 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:26:52,189 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 07:26:52,197 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 07:26:52,197 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 07:26:52,245 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 07:26:58,917 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=6 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:26:58,917 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/6/2025-08-19
+2025-08-20 07:27:04,721 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:27:04,721 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 07:27:04,729 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 07:27:04,729 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 07:27:04,765 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 07:27:09,748 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=2 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:27:09,748 - __main__ - INFO - Returning cached data for complete/2/2025-08-19
+2025-08-20 07:27:09,748 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 07:27:09,780 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 07:27:14,980 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=1 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:27:14,982 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/1/2025-08-19
+2025-08-20 07:27:16,966 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:27:16,974 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 07:27:16,974 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 07:27:16,974 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 07:27:17,020 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 07:27:26,478 - __main__ - INFO - Received prediction request: date='2025-08-01' day_range=1 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:27:26,478 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/1/2025-08-01
+2025-08-20 07:27:29,658 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:27:29,658 - __main__ - INFO - Received 8622 characters from NASA API
+2025-08-20 07:27:29,658 - __main__ - INFO - Successfully parsed 106 fire data points
+2025-08-20 07:27:29,658 - __main__ - INFO - Processing 106 fire data points
+2025-08-20 07:27:29,705 - __main__ - INFO - Risk level distribution: {1: 59, 0: 43, 2: 4}
+2025-08-20 07:27:47,528 - __main__ - INFO - Received prediction request: date='2025-08-01' day_range=7 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 07:27:47,528 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/7/2025-08-01
+2025-08-20 07:27:50,345 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 07:27:52,699 - __main__ - INFO - Received 60674 characters from NASA API
+2025-08-20 07:27:52,701 - __main__ - INFO - Successfully parsed 752 fire data points
+2025-08-20 07:27:52,701 - __main__ - INFO - Processing 752 fire data points
+2025-08-20 07:27:52,747 - __main__ - INFO - Risk level distribution: {0: 539, 1: 207, 2: 6}
+2025-08-20 10:08:14,270 - __main__ - INFO - Model loaded successfully
+2025-08-20 10:08:22,623 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:08:22,623 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 10:08:22,938 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:08:22,938 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 10:08:25,166 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:08:25,166 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 10:08:25,174 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 10:08:25,184 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 10:08:25,220 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 10:08:30,590 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:08:30,590 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 10:08:30,590 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 10:08:30,590 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 10:08:30,613 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 10:18:32,353 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:18:32,353 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 10:18:34,538 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:18:34,538 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 10:18:34,538 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 10:18:34,538 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 10:18:34,588 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 10:19:13,720 - __main__ - INFO - Received prediction request: date='2021-06-08' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:19:13,720 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2021-06-08
+2025-08-20 10:19:14,987 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:19:14,987 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-20 10:19:14,987 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-20 10:19:14,987 - __main__ - WARNING - No fire data found for date: 2021-06-08, day_range: 3, region: complete
+2025-08-20 10:19:23,264 - __main__ - INFO - Received prediction request: date='2021-06-08' day_range=2 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:19:23,264 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/2/2021-06-08
+2025-08-20 10:19:24,507 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:19:24,507 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-20 10:19:24,507 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-20 10:19:24,507 - __main__ - WARNING - No fire data found for date: 2021-06-08, day_range: 2, region: complete
+2025-08-20 10:19:33,985 - __main__ - INFO - Received prediction request: date='2021-07-15' day_range=2 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:19:33,985 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/2/2021-07-15
+2025-08-20 10:19:35,577 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:19:35,577 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-20 10:19:35,577 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-20 10:19:35,577 - __main__ - WARNING - No fire data found for date: 2021-07-15, day_range: 2, region: complete
+2025-08-20 10:20:02,290 - __main__ - INFO - Received prediction request: date='2023-08-09' day_range=2 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:20:02,290 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/2/2023-08-09
+2025-08-20 10:20:03,629 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:20:03,638 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-20 10:20:03,638 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-20 10:20:03,638 - __main__ - WARNING - No fire data found for date: 2023-08-09, day_range: 2, region: complete
+2025-08-20 10:20:09,457 - __main__ - INFO - Received prediction request: date='2023-08-09' day_range=2 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:20:09,457 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/2/2023-08-09
+2025-08-20 10:20:10,592 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:20:10,592 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-20 10:20:10,592 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-20 10:20:10,592 - __main__ - WARNING - No fire data found for date: 2023-08-09, day_range: 2, region: complete
+2025-08-20 10:20:13,510 - __main__ - INFO - Received prediction request: date='2023-08-09' day_range=2 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:20:13,510 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/2/2023-08-09
+2025-08-20 10:20:14,477 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:20:14,477 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-20 10:20:14,477 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-20 10:20:14,477 - __main__ - WARNING - No fire data found for date: 2023-08-09, day_range: 2, region: complete
+2025-08-20 10:20:16,860 - __main__ - INFO - Received prediction request: date='2023-08-09' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:20:16,860 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2023-08-09
+2025-08-20 10:20:18,478 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:20:18,478 - __main__ - INFO - Received 122 characters from NASA API
+2025-08-20 10:20:18,478 - __main__ - WARNING - NASA API returned no data (only headers or empty)
+2025-08-20 10:20:18,478 - __main__ - WARNING - No fire data found for date: 2023-08-09, day_range: 3, region: complete
+2025-08-20 10:20:26,481 - __main__ - INFO - Received prediction request: date='2025-08-07' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:20:26,481 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-07
+2025-08-20 10:20:28,106 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:20:28,106 - __main__ - INFO - Received 18801 characters from NASA API
+2025-08-20 10:20:28,114 - __main__ - INFO - Successfully parsed 232 fire data points
+2025-08-20 10:20:28,115 - __main__ - INFO - Processing 232 fire data points
+2025-08-20 10:20:28,151 - __main__ - INFO - Risk level distribution: {0: 171, 1: 60, 2: 1}
+2025-08-20 10:21:25,336 - __main__ - INFO - Received prediction request: date='2025-07-10' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:21:25,336 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-07-10
+2025-08-20 10:21:27,613 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:21:27,805 - __main__ - INFO - Received 48522 characters from NASA API
+2025-08-20 10:21:27,805 - __main__ - INFO - Successfully parsed 602 fire data points
+2025-08-20 10:21:27,805 - __main__ - INFO - Processing 602 fire data points
+2025-08-20 10:21:27,840 - __main__ - INFO - Risk level distribution: {0: 447, 1: 153, 2: 2}
+2025-08-20 10:22:18,491 - __main__ - INFO - Received prediction request: date='2025-07-10' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:22:18,491 - __main__ - INFO - Returning cached data for complete/3/2025-07-10
+2025-08-20 10:22:18,491 - __main__ - INFO - Processing 602 fire data points
+2025-08-20 10:22:18,528 - __main__ - INFO - Risk level distribution: {0: 447, 1: 153, 2: 2}
+2025-08-20 10:22:45,333 - __main__ - INFO - Received prediction request: date='2025-07-10' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:22:45,333 - __main__ - INFO - Returning cached data for complete/3/2025-07-10
+2025-08-20 10:22:45,333 - __main__ - INFO - Processing 602 fire data points
+2025-08-20 10:22:45,375 - __main__ - INFO - Risk level distribution: {0: 447, 1: 153, 2: 2}
+2025-08-20 10:22:54,152 - __main__ - INFO - Received prediction request: date='2025-07-10' day_range=3 satellite=None daynight=None risk_level=1 region='complete'
+2025-08-20 10:22:54,152 - __main__ - INFO - Returning cached data for complete/3/2025-07-10
+2025-08-20 10:22:54,152 - __main__ - INFO - Processing 602 fire data points
+2025-08-20 10:22:54,186 - __main__ - INFO - Risk level distribution: {0: 447, 1: 153, 2: 2}
+2025-08-20 10:22:54,191 - __main__ - INFO - After risk level filter (1): 153 records
+2025-08-20 10:24:43,535 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 10:24:43,537 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 10:24:45,329 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:24:45,329 - __main__ - INFO - Received 14994 characters from NASA API
+2025-08-20 10:24:45,337 - __main__ - INFO - Successfully parsed 186 fire data points
+2025-08-20 10:24:45,337 - __main__ - INFO - Processing 186 fire data points
+2025-08-20 10:24:45,382 - __main__ - INFO - Risk level distribution: {0: 139, 1: 40, 2: 7}
+2025-08-20 10:27:38,477 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='north'
+2025-08-20 10:27:38,477 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,24.0,88.2,37.0/3/2025-08-19
+2025-08-20 10:27:39,811 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 10:27:39,811 - __main__ - INFO - Received 764 characters from NASA API
+2025-08-20 10:27:39,811 - __main__ - INFO - Successfully parsed 8 fire data points
+2025-08-20 10:27:39,819 - __main__ - INFO - Processing 8 fire data points
+2025-08-20 10:27:39,844 - __main__ - INFO - Risk level distribution: {0: 5, 1: 3}
+2025-08-20 22:01:15,320 - __main__ - INFO - Model loaded successfully
+2025-08-20 22:01:32,760 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 22:01:32,760 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-19
+2025-08-20 22:01:35,304 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 22:01:35,304 - __main__ - INFO - Received 22133 characters from NASA API
+2025-08-20 22:01:35,326 - __main__ - INFO - Successfully parsed 276 fire data points
+2025-08-20 22:01:35,332 - __main__ - INFO - Processing 276 fire data points
+2025-08-20 22:01:35,378 - __main__ - INFO - Risk level distribution: {0: 197, 1: 66, 2: 13}
+2025-08-20 22:02:39,047 - __main__ - INFO - Received prediction request: date='2025-08-01' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 22:02:39,047 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-08-01
+2025-08-20 22:02:40,729 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 22:02:40,737 - __main__ - INFO - Received 20102 characters from NASA API
+2025-08-20 22:02:40,737 - __main__ - INFO - Successfully parsed 248 fire data points
+2025-08-20 22:02:40,737 - __main__ - INFO - Processing 248 fire data points
+2025-08-20 22:02:40,769 - __main__ - INFO - Risk level distribution: {0: 173, 1: 71, 2: 4}
+2025-08-20 22:04:16,833 - __main__ - INFO - Received prediction request: date='2025-08-19' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 22:04:16,833 - __main__ - INFO - Returning cached data for complete/3/2025-08-19
+2025-08-20 22:04:16,833 - __main__ - INFO - Processing 276 fire data points
+2025-08-20 22:04:16,865 - __main__ - INFO - Risk level distribution: {0: 197, 1: 66, 2: 13}
+2025-08-20 22:04:34,205 - __main__ - INFO - Received prediction request: date='2025-07-01' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2025-08-20 22:04:34,211 - __main__ - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/0836463bf6dceaa54a482228ac8df5ae/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2025-07-01
+2025-08-20 22:04:36,399 - __main__ - INFO - NASA API Response Status: 200
+2025-08-20 22:04:36,399 - __main__ - INFO - Received 37843 characters from NASA API
+2025-08-20 22:04:36,407 - __main__ - INFO - Successfully parsed 469 fire data points
+2025-08-20 22:04:36,407 - __main__ - INFO - Processing 469 fire data points
+2025-08-20 22:04:36,458 - __main__ - INFO - Risk level distribution: {0: 246, 1: 220, 2: 3}

@@ -1,0 +1,8 @@
+2026-05-13 17:32:43,716 - main - INFO - Model loaded successfully
+2026-05-13 17:33:18,324 - main - INFO - Received prediction request: date='2026-05-12' day_range=3 satellite=None daynight=None risk_level=None region='complete'
+2026-05-13 17:33:18,325 - main - INFO - Fetching fire data from NASA FIRMS AREA API: https://firms.modaps.eosdis.nasa.gov/api/area/csv/11953fbb47b3f1f20ca4dd02133ff908/VIIRS_SNPP_NRT/68.1,6.5,97.4,35.7/3/2026-05-12
+2026-05-13 17:33:20,103 - main - INFO - NASA API Response Status: 200
+2026-05-13 17:33:21,330 - main - INFO - Received 430668 characters from NASA API
+2026-05-13 17:33:21,355 - main - INFO - Successfully parsed 5353 fire data points
+2026-05-13 17:33:21,359 - main - INFO - Processing 5353 fire data points
+2026-05-13 17:33:21,405 - main - INFO - Risk level distribution: {1: 3477, 2: 1304, 0: 572}
