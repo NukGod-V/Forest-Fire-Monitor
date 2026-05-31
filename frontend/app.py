@@ -103,7 +103,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configuration
-API_BASE_URL = "http://localhost:8000"  # Change this to your deployed API URL
+API_BASE_URL = "https://forest-fire-monitor.onrender.com"
 RISK_COLORS = {
     0: '#4CAF50',  # Green for Low
     1: '#FF9800',  # Orange for Moderate
